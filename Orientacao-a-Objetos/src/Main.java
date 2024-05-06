@@ -7,6 +7,7 @@ public class Main {
       meuFilme.duracaoEmMinutos = 180;
 
         System.out.println(meuFilme.anoDeLancamento);
+        System.out.println("Total de avaliações" + meuFilme.getTotalDeAvaliacoes());
 
 
 
